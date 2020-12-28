@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MessageServer\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MessageServer\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MessageServer\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.AssemblyInfo.cs
+C:\Users\User\source\repos\MessageServer\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MessageServer\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.exe
+C:\Users\User\source\repos\MessageServer\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.deps.json
+C:\Users\User\source\repos\MessageServer\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.runtimeconfig.json
+C:\Users\User\source\repos\MessageServer\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.runtimeconfig.dev.json
+C:\Users\User\source\repos\MessageServer\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.dll
+C:\Users\User\source\repos\MessageServer\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.pdb
+C:\Users\User\source\repos\MessageServer\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.dll
+C:\Users\User\source\repos\MessageServer\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.pdb
+C:\Users\User\source\repos\MessageServer\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.genruntimeconfig.cache
+C:\Users\User\source\repos\MessageServer\MessageServer\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\User\source\repos\MessageServer\MessageServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\User\source\repos\MessageServer\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.csproj.CopyComplete
