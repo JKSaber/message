@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T15:54:30.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.329 (Edition Yx 02)" version="14.1.9" etag="zwfzd8fnaDOUyEsQ673b" type="github"><diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">7VnbjpswEP2aPG4FmOvj5rK7D61UKVX7TMABaw2mYJqkX9+xYycQQEmkRE27ECnYM4PHnnNsxmaCZtn2tQyL9AuLMZ1YRrydoPnEskzbcuEmJLu9xA2cvSApSayMjoIl+Y2V0FDSmsS4ahlyxignRVsYsTzHEW/JwrJkm7bZmtG21yJMcEewjELalf4gMU+V1DSMo+INkyRVrn1HKVZh9J6UrM6Vv4mF1vLaq7NQt6XsqzSM2aYhQosJmpWM8X0p284wFbHVYds/9zKgPfS7xDm/5AEbR4G3igPsxJZhWv6TauFXSGushyA7ync6OJTkUJpWvGTvh/BAz6cpzygUTSiuCaUzRlkJ9ZxJ+zXLuULa8lVdm0CYDMOeB8Gh3T5Nd3C6t7jkeNsQqcG+YpZhXu7ARGltFfedrqr6poGyoYVpA2HNzFAxKzk0fYwuFFSALwy20wn2kgtmgrYTdWBKIYpsvf4KNrM980WMppuUcLwswkjoNzAjh7GQ4fSchd8GxHS6gLzISwCytzE+OUaAPMdQl3xGRJ7AvHmmJMnBiLOiA6HC/wbomVYbPmT3wOf2oGffAz23Z6q4lIvxF2EO5USUNaJIK8FPUz8C3QO046EHAtq7CmjrHwLaNj3f8eB9Lf9t+QwlxXfl5xT0FeOcZUO4w2AjkidTZTS3b8MFZHvtNdtyLuMCcu7ABf8qLtgjF27KBd8wHogLwflcCVqAnBVfDaNrTp8lPNdlTTobQ/fOo8zg5E0cdIGwenCw7rE+69zsIwIBs/aBgLhg9/C/AuHa6IGAQB8XCN97pKXJHswXUlNnA284jOFl2cgVjjotLLTgMytxJlwWVS3usYwiIEu46Dx0eWLN9kcjFaQQmNdCCw4KUpFIujEwJcqqwrFsQwhJXWVMVDnOCtkmySMSk7jORdO1+KPhCvwLa659Y3mukeShcEPJzzr81BhJMZjyAJy8TTSVNEDNOda+iY3G/AnQ6ScqA2asqTxDSUkc43wwJenQ8ITYC1f8TlIn1EdscYE8VKlQBGTFIlWTBz84VsO5AZeD9ppio+42yDKdLpfN+5B5eMc7knkk89mNnBm02Gw5f5fNw9v6kc0jm88eUdnOQ63NwwcTI5tHNp9js3dy4HrXtRmqxy9cUtf4jIgWfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-11T16:37:46.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.329 (Edition Yx 02)" etag="IKJGSQc17kRGElNJvl_c" version="14.1.9" type="github">
+  <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
+    <mxGraphModel dx="1685" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="200" y="400" width="940" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-5" value="Stage 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-6" value="&lt;span&gt;Stage 3&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="573" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-7" value="&lt;span&gt;Stage 2&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="347" y="425" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-8" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="800" y="425" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="417" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="870" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-14" value="&lt;p&gt;&lt;span style=&quot;font-size: 13px ; font-weight: normal&quot;&gt;Я зашел на сайт вакансий hh.ru (не реклама), авторизовался и нажал кнопку &quot;Поиск&quot; в главном меню вверху страницы.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="93" y="430" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-16" value="&lt;p&gt;&lt;span style=&quot;font-size: 13px ; font-weight: normal&quot;&gt;Открылась страница с параметрами поиска. Я ввел данные для поиска (информационные технологии, удаленная работа, от 50 тыс. руб.) и нажал кнопку &quot;Найти&quot; внизу страницы.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="319" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;p&gt;&lt;span&gt;Открылся перечень вакансий. Меня привлекла позиция &quot;Консультант-ассистент Dynamics CRM&quot;. Я нажал кнопку &quot;Откликнуться&quot; внизу описания вакансии.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="545" y="430" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;p&gt;Открылась страница с тестированием на логическое мышление. Я прошел тест и нажал кнопку &quot;Отправить&quot; в конце страницы с тестом.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="773" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iyBY-X_X3IxD73us7qDs-1" value="&lt;span&gt;Stage 5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iyBY-X_X3IxD73us7qDs-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1138" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iyBY-X_X3IxD73us7qDs-5" value="&lt;p&gt;На мой email пришло письмо с тестовым заданием.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="430" width="215" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
